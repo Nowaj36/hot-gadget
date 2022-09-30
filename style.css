@@ -108,4 +108,25 @@
     color: black;
 }
 
-
+footer li a{
+   color: dimgray; 
+   text-decoration: none;
+   font-size: 18px;
+}
+footer a:hover{
+    color: #FF9C35;
+}
+.email-call img{
+    padding-right: 10px;
+}
+.social-media li a {
+    display: block;
+    text-align: center;
+    width: 28px;
+    height: 28px;
+    background-color: #000000;
+    border-radius: 50%;
+}
+.social-media li a:hover {
+    background-image: linear-gradient(to left, #FF9C35, #FFD019);
+}
